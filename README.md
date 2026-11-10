@@ -4,7 +4,7 @@ This code replicates “Impact of a Local, Coastal Community Based Management Re
 
 The .qmd file is the file used to run the replication.
 The .xlsx file is the file containing the data.
-The output folder contains the HTML output of the .qmd file.
+The outputs folder contains the HTML output of the .qmd file.
 The logs folder contains the logs from the .qmd file.
 The README file contains information regarding the replication.
 A full run takes ~20 minutes.
